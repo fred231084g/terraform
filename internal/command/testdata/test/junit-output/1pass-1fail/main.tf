@@ -1,3 +1,0 @@
-locals {
-  number = 10
-}

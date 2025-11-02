@@ -1,3 +1,0 @@
-stack "child" {
-  source = "./child"
-}

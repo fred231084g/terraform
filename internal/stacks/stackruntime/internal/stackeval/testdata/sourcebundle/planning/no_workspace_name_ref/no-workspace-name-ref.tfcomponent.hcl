@@ -1,3 +1,0 @@
-component "mod" {
-  source = "./"
-}

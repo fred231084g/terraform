@@ -1,1 +1,0 @@
-run "just_go" {}

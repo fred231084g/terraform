@@ -1,2 +1,0 @@
-ephemeral "test resource" "nope" {
-}
